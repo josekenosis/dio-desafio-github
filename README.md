@@ -2,4 +2,6 @@
 Desafio de projeto do bootcamp Spread
 
 ## Links Úteis
-[Teste de Link](https://www.markdownguide.org/getting-started/)
+[Markdown Guide](https://www.markdownguide.org/getting-started/)
+
+[Download Git](https://git-scm.com/downloads)
